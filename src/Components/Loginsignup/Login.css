@@ -82,3 +82,7 @@ input {
     font-size: 18px;
     cursor: pointer;
 }
+.gray{
+    background: #06d8c0;
+    color: #fff;
+}
